@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:codesnifferai/web.git
+[submodule "ai"]
+	path = ai
+	url = git@github.com:codesnifferai/ai.git
