@@ -1,6 +1,8 @@
 [submodule "web"]
 	path = web
 	url = git@github.com:codesnifferai/web.git
+	branch = main
 [submodule "ai"]
 	path = ai
 	url = git@github.com:codesnifferai/ai.git
+	branch = main
