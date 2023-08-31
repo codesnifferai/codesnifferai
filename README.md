@@ -3,5 +3,5 @@
 To clone the repository, with all the submodules, run:
 
 ```console
-foo@bar:~$ git clone --recurse-submodules [REPO_URL]
+git clone --recurse-submodules --remote-submodules git@github.com:codesnifferai/codesnifferai.git  
 ```
