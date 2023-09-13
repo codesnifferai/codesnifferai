@@ -1,5 +1,10 @@
 # Code Sniffer AI
 
+## Description
+
+CodeSnifferAI is a static code analysis tool based on AI to detect code smells on Java Classes.
+
+## Instructions
 To clone the repository, with all the submodules at latest stable commits, run:
 
 ```console
